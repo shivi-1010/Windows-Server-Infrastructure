@@ -35,7 +35,7 @@ The project documentation, provided in the form of a PDF file, includes screensh
      - Applied Group Policy to enforce WDS settings for clients.
 
 ## How to View the Documentation
-1. Open the PDF file named `CLCT4003-Case-Project.pdf`.
+1. Open the PDF file named `Windows-Server-Infrastructure-Case-Project.pdf`.
 2. The file contains:
    - Step-by-step implementation details.
    - Screenshots validating each configuration step.
